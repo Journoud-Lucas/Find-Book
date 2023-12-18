@@ -1,4 +1,4 @@
-[Français](README.md) | English
+Français | [English](README_EN.md)
 
 # 📚  **Find Book**
 ![License](https://img.shields.io/badge/License-UNLICENSE-red)![Latest Version](https://img.shields.io/badge/Version-1.0.0-blue) ![OS](https://img.shields.io/badge/OS-Windows%2FmacOS%2FLinux-green)
