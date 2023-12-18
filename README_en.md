@@ -1,4 +1,4 @@
-Français | [English](README_en.md)
+[Français](README.md) | English
 
 # 📚  **Find Book**
 ![License](https://img.shields.io/badge/License-UNLICENSE-red)![Latest Version](https://img.shields.io/badge/Version-1.0.0-blue) ![OS](https://img.shields.io/badge/OS-Windows%2FmacOS%2FLinux-green)
@@ -12,6 +12,9 @@ Once the entire database has been searched, the program will display the name of
 
 ![Find Book](https://i.ibb.co/LR70by5/image.png)
 
+## 🎓 School project
+This is a small project for [Université Lumière Lyon 2](https://www.univ-lyon2.fr/).
+We had to work in pairs for 2 hours on a Python project using an image extraction and description algorithm with OpenCV.
 
 ## 🔧 Features
 
