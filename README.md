@@ -1,4 +1,4 @@
-Français | [English](README_en.md)
+[Français](README.md) | English
 
 # 📚  **Find Book**
 ![License](https://img.shields.io/badge/License-UNLICENSE-red)![Latest Version](https://img.shields.io/badge/Version-1.0.0-blue) ![OS](https://img.shields.io/badge/OS-Windows%2FmacOS%2FLinux-green)
@@ -12,6 +12,10 @@ Une fois toute la base de données parcouru, le programme va afficher le nom du 
 
 ![Find Book](https://i.ibb.co/LR70by5/image.png)
 
+
+## 🎓 Projet d'école
+Il s'agit d'un petit projet fait pour [l'Université Lumière Lyon 2](https://www.univ-lyon2.fr/).
+En effet nous devions faire en binôme en 2heure un projet Python utilisant un algorithme d’extraction et de description d’image avec OpenCV.
 
 ## 🔧 Fonctionnalités
 
