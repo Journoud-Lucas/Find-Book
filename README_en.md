@@ -17,13 +17,11 @@ This is a small project for [Université Lumière Lyon 2](https://www.univ-lyon2
 We had to work in pairs for 2 hours on a Python project using an image extraction and description algorithm with OpenCV.
 
 ## 🔧 Features
-
 - **Find a book:** Find the name of a book and its author from a photo of its cover.
 - **Intuitive user interface:** A user interface simplifies interaction with the application.
 - **Database management:** Easily add, modify or remove books from the database by modifying the contents of the .json file.
 
 ## 📖 How to use it
-
 1. **Open:** Launch the application via main.py and click on "Browse images".
 3. **Select image:** Select the image of the book whose name and author you are looking for.
 2. **Observe:** The name of the book and its author will then be displayed on the graphical interface.
